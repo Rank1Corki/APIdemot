@@ -1,0 +1,36 @@
+# Base Host Address
+@QuestAPI_HostAddress = https://localhost:7141
+
+# Create Quest: "Tuhoa rotat"
+POST {{QuestAPI_HostAddress}}/quest
+Content-Type: application/json
+
+{
+    "name": "Tuhoa rotat",
+    "description": "Tapa 3 rottaa ja tuo nahat minulle.",
+    "reward": 50
+}
+
+### 
+
+# Create Quest: "Etsi Viljo"
+POST {{QuestAPI_HostAddress}}/quest
+Content-Type: application/json
+
+{
+    "name": "Etsi Viljo",
+    "description": "Onks Viljoo näkyny.",
+    "reward": 100
+}
+
+### 
+
+# Retrieve All Quests
+GET {{QuestAPI_HostAddress}}/quest
+
+### 
+
+# Retrieve Quest by ID
+GET {{QuestAPI_HostAddress}}/quest/1
+
+###

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eetus\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\APIdemot\\Api2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAF312-3AB6-48DC-ABC4-2169A26B8405}|Api2.csproj|c:\\users\\eetus\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\apidemot\\api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAF312-3AB6-48DC-ABC4-2169A26B8405}|Api2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAF312-3AB6-48DC-ABC4-2169A26B8405}|Api2.csproj|c:\\users\\eetus\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\apidemot\\api2\\questcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAF312-3AB6-48DC-ABC4-2169A26B8405}|Api2.csproj|solutionrelative:questcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAF312-3AB6-48DC-ABC4-2169A26B8405}|Api2.csproj|c:\\users\\eetus\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\apidemot\\api2\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAF312-3AB6-48DC-ABC4-2169A26B8405}|Api2.csproj|solutionrelative:quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAF312-3AB6-48DC-ABC4-2169A26B8405}|Api2.csproj|c:\\users\\eetus\\onedrive\\ty\u00F6p\u00F6yt\u00E4\\apidemot\\api2\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAF312-3AB6-48DC-ABC4-2169A26B8405}|Api2.csproj|solutionrelative:gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestController.cs",
+              "DocumentMoniker": "C:\\Users\\eetus\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\APIdemot\\Api2\\QuestController.cs",
+              "RelativeDocumentMoniker": "QuestController.cs",
+              "ToolTip": "C:\\Users\\eetus\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\APIdemot\\Api2\\QuestController.cs",
+              "RelativeToolTip": "QuestController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwF0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:08:45.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\eetus\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\APIdemot\\Api2\\Quest.cs",
+              "RelativeDocumentMoniker": "Quest.cs",
+              "ToolTip": "C:\\Users\\eetus\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\APIdemot\\Api2\\Quest.cs",
+              "RelativeToolTip": "Quest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:08:40.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eetus\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\APIdemot\\Api2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eetus\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\APIdemot\\Api2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:08:28.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\eetus\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\APIdemot\\Api2\\GameContext.cs",
+              "RelativeDocumentMoniker": "GameContext.cs",
+              "ToolTip": "C:\\Users\\eetus\\OneDrive\\Ty\u00F6p\u00F6yt\u00E4\\APIdemot\\Api2\\GameContext.cs",
+              "RelativeToolTip": "GameContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:08:12.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
